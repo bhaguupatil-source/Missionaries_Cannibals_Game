@@ -1,5 +1,4 @@
 # Missionaries_Cannibals_Game
-# Missionaries_Cannibals_Game
 # 3 Missionaries and 3 Cannibals River Crossing Game
 
 This project recreates the classic **3 Missionaries and 3 Cannibals River Crossing Puzzle** using Python. The goal is to transfer all the missionaries and cannibals from one side of the river to the other without breaking the rules.
